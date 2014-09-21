@@ -1,0 +1,21 @@
+{
+  "name": "sillyheader-server-side",
+  "version": "0.0.0",
+  "description": "A silly header component demo rendered on the server side",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "css",
+    "browserify",
+    "express"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/sillyheader-server-side"
+  }
+}
