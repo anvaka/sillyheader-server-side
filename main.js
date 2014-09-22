@@ -1,3 +1,4 @@
+require('sillyheader-theme');
 var HeaderComponent = require('sillyheader');
 
 function main(req, res) {

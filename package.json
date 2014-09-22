@@ -24,7 +24,8 @@
     "express": "^4.9.4",
     "jsdom": "^1.0.0-pre.7",
     "parcelify": "^0.12.3",
-    "sillyheader": "0.0.1"
+    "sillyheader": "0.0.1",
+    "sillyheader-theme": "0.0.0"
   },
   "browser": {
     "jsdom": false
