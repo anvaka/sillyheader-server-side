@@ -1,6 +1,6 @@
 # sillyheader-server-side
 
-A silly header component demo rendered on the server side
+Please ignore this one in favor of https://github.com/anvaka/looker-on
 
 # install
 
